@@ -2,3 +2,6 @@ Git and Github
 Git- version control system designed to handle small to large projects simultaneously without overwriting the main file.
 Github- web based platform that uses git version control. Allows open source projects.
 To push your files to git, you need to initialize them first using git init
+files that show U are Untracked
+files marked A are staged
+files marked M are modified
